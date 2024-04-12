@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...devops engineering
 - 📫 How to reach me ... gmail
 - 😄 Pronouns: ... bru 
-- ⚡ Fun fact: ...i learn very quickly
+- ⚡ Fun fact: ...
+- print("I learn very quickly")
 
 <!---
 DeezieJones/DeezieJones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
